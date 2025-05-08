@@ -38,7 +38,7 @@ class NumberLister extends React.Component {
 
 export default NumberLister;
 
-/Create a React application that has the following functionality:
+//Create a React application that has the following functionality:
 //On top, there should be three textboxes (firstname, lastname, age), and a button.
 //When the button is clicked, the person should get added to a table underneath
 //the buttons, and the textboxes should get cleared out. One additional twist we'll
